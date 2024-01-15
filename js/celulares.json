@@ -43,7 +43,7 @@
     {
         "id": "Samsung5",
         "modelo": "Galaxy Z Fold 3",
-        "imagen":"./img/samsung/z-Fold-3-1.jpg",
+        "imagen":"./img/samsung/Z-Fold-3-1.jpg",
         "categoria": {
             "nombre": "Samsung",
             "id": "Samsung"
